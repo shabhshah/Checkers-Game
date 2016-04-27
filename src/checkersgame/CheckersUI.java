@@ -96,8 +96,8 @@ public class CheckersUI extends javax.swing.JFrame {
         jButton2 = new javax.swing.JButton();
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
-        setMaximumSize(new java.awt.Dimension(890, 926));
-        setMinimumSize(new java.awt.Dimension(890, 926));
+        setMaximumSize(new java.awt.Dimension(866, 836));
+        setMinimumSize(new java.awt.Dimension(866, 836));
 
         jLabel3.setIcon(new javax.swing.ImageIcon(getClass().getResource("/resources/red.png"))); // NOI18N
         jLabel3.setBorder(null);
@@ -490,7 +490,7 @@ public class CheckersUI extends javax.swing.JFrame {
                         .addComponent(jLabel57)
                         .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
                         .addComponent(jLabel49)))
-                .addContainerGap(javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE))
+                .addContainerGap(122, Short.MAX_VALUE))
         );
         jPanel1Layout.setVerticalGroup(
             jPanel1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
